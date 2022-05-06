@@ -1,4 +1,4 @@
 
-# Livro de receitas :main:
+# Livro de receitas 
 
 * Strogonoff de frango 
